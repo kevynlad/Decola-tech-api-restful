@@ -23,6 +23,6 @@ Este repositório contém o projeto desenvolvido como parte do desafio proposto 
 - Integração com banco de dados SQL.
 - Validação de dados de entrada.
 - Endpoints bem estruturados e documentados.
-- Deploy automatizado na nuvem.
+
 
 
